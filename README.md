@@ -1,9 +1,9 @@
 <div id="top"></div>
 <p align="center">
-<img src=https://img.shields.io/github/stars/ICEGXG/untitlednuker?color=6699ff&style=for-the-badge />
-<img src=https://img.shields.io/github/forks/ICEGXG/untitlednuker?color=6699ff&style=for-the-badge />
-<img src=https://img.shields.io/github/issues/ICEGXG/untitlednuker?color=6699ff&style=for-the-badge />
-<img src=https://img.shields.io/github/license/ICEGXG/untitlednuker?color=6699ff&style=for-the-badge />
+<img src=https://img.shields.io/github/stars/ICEGXG/vanjeyynuker?color=6699ff&style=for-the-badge />
+<img src=https://img.shields.io/github/forks/ICEGXG/vanjeyynuker?color=6699ff&style=for-the-badge />
+<img src=https://img.shields.io/github/issues/ICEGXG/vanjeyynuker?color=6699ff&style=for-the-badge />
+<img src=https://img.shields.io/github/license/ICEGXG/vanjeyynuker?color=6699ff&style=for-the-badge />
 </p>
 <p align="center">
   <a href="https://github.com/othneildrew/Best-README-Template">
@@ -13,12 +13,12 @@
   <h3 align="center">Multifunctional bot for destroying discord servers</h3>
   <p align="center">
     <br />
-    <a href="https://github.com/ICEGXG/UntitledNuker"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/Frenzyyxcheats/VanjeyyXNuker"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/ICEGXG/UntitledNuker/issues">Report Bug</a>
+    <a href="https://github.com/Frenzyyxcheats/VanjeyyXNuker/issues">Report Bug</a>
     ·
-    <a href="https://github.com/ICEGXG/UntitledNuker/issues">Request Feature</a>
+    <a href="https://github.com/Frenzyyxcheats/VanjeyyXNuker/issues">Request Feature</a>
   </p>
 </p>
 
@@ -46,9 +46,9 @@
   </ol>
 </details>
 
-## About Untitled Nuker
+## About Vanjeyy X Nuker
 
-<img src="assets/screenshot.png" alt="Untitled Nuker">
+<img src="assets/screenshot.png" alt="Vanjeyy Nuker">
 
 Untitled Nuker is multifunctional and feature-rich bot for destroying discord servers
 
@@ -112,7 +112,7 @@ Or you can follow next steps:
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 ## Usage
-Run the `UntitledNuker.py` file using `py -3 UntitledNuker.py`, or run `UntitledNuker.exe`  
+Run the `VanjeyyNuker.py` file using `py -3 VanjeyyNuker.py`, or run `VanjeyyNuker.exe`  
 At the first launch bot will ask you for:
    1. Bot token
    2. Prefix
@@ -123,7 +123,7 @@ Next times bot will run immediately.
 After starting you can use the !help command (Change `!` to your prefix), being on the same server as the bot (Or into PM). Bot will send you all the available commands.
 <p align="right">(<a href="#top">back to top</a>)</p>
 
-## Changelog (1.3.1)
+## Changelog (1.0.0)
 * Fixed error when launching using source code
 * Added option to enable/disable logging via discord.py
 * Removed useless parts of the code
